@@ -7,12 +7,14 @@ import Footer from './components/Footer';
 
 export default function Home() {
   return (
-    <main className='flex min-h-screen flex-col items-center justify-between p-24'>
-      <Intro />
-      <Timeline />
-      <Portfolio />
-      <Contact />
-      <Footer />
-    </main>
+    <div className='bg-white text-stone-900 min-h-screen font-inter'>
+      <div className='max-w-5xl w-11/12 mx-auto'>
+        <Intro />
+        <Portfolio />
+        <Timeline />
+        <Contact />
+        <Footer />
+      </div>
+    </div>
   );
 }
