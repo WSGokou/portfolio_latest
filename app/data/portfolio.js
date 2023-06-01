@@ -8,7 +8,7 @@ export default [
   {
     title: 'Expense Tracker (Work in Progress)',
     imgUrl: '',
-    stack: ['Typescript', 'Tailwind', 'NextJS', 'Prisma', 'PostgreSQL'],
+    stack: ['Typescript', 'Tailwind', 'NextJS', 'tRPC', 'Prisma', 'PostgreSQL'],
     link: 'https://goexpenses.vercel.app',
   },
 ];
