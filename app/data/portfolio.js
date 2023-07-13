@@ -17,4 +17,10 @@ export default [
     stack: ['Typescript', 'Tailwind', 'NextJS', 'Moralis.io'],
     link: 'https://moralis-app-five.vercel.app',
   },
+  {
+    title: 'Frontend Mentor Challenges',
+    imgUrl: '',
+    stack: ['Typescript', 'Tailwind', 'NextJS'],
+    link: 'https://femchallenges.vercel.app',
+  },
 ];
