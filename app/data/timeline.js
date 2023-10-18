@@ -1,15 +1,22 @@
 export default [
   {
+    year: '2023',
+    title: 'Front End Web Developer',
+    duration: '6 week contract',
+    details:
+      'Working alongside a team of QA analysts, project managers, coders and graphic production artists ranging from entry level to lead level, preparing Apple`s website for new product releases',
+  },
+  {
     year: 'Today',
     title: 'Volunteer Web Developer',
-    duration: '1 month',
+    duration: '5 months',
     details:
       'Offering my skills to a charity working towards making education accessible to less priviliged children who do not currently have access. Working on the frontend using React, Javascript, CSS and REST APIs.',
   },
   {
     year: 'Today',
     title: 'Senior Sofware Lead',
-    duration: '4 months',
+    duration: '8 months',
     details:
       'Leading the development and migration of the customer facing website for a small startup originally built using Magento. Utilising NextJS and Tailwind for most of the frontend, Stripe for payments, REST and GraphQL for communicating with the Magento system and database.',
   },
