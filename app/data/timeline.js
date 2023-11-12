@@ -9,14 +9,14 @@ export default [
   {
     year: 'Today',
     title: 'Volunteer Web Developer',
-    duration: '5 months',
+    duration: '6 months',
     details:
       'Offering my skills to a charity working towards making education accessible to less priviliged children who do not currently have access. Working on the frontend using React, Javascript, CSS and REST APIs.',
   },
   {
     year: 'Today',
     title: 'Senior Sofware Lead',
-    duration: '8 months',
+    duration: '9 months',
     details:
       'Leading the development and migration of the customer facing website for a small startup originally built using Magento. Utilising NextJS and Tailwind for most of the frontend, Stripe for payments, REST and GraphQL for communicating with the Magento system and database.',
   },
