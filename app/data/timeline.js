@@ -46,6 +46,6 @@ export default [
     title: "Bachelor's Degree in Computing",
     duration: '5 years',
     details:
-      'I pursued the knowledge that a computing degree had to offer. I learned about computer systems, cryptography, computer science theory, an array of programming, and aspects of artificial intelligence.',
+      'I pursued the knowledge that a computing degree had to offer. I learned about data structures and algorithms, computer systems, cryptography, computer science theory, an array of programming, and aspects of artificial intelligence.',
   },
 ];
